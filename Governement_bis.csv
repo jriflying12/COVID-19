@@ -1,20 +1,58 @@
-Country,Province,School_Closed,Curfew_Start,Lockdown_Start,Lockdown_End,Lockdown_Start2,Lockdown_End_2
-Mainland China,,1/23/2020,,1/23/2020,4/8/2020,,
-US,New York,3/16/2020,,3/20/2020,6/13/2020,,
-US,California,3/19/2020,,3/19/2020,,,
-France,,3/13/2020,,3/17/2020,5/11/2020,,
-Germany,,3/13/2020,,3/23/2020,5/10/2020,,
-United Arab Emirates,,3/8/2020,3/26/2020,4/5/2020,4/24/2020,,
-India,,3/8/2020,,3/25/2020,5/31/2020,,
-Italy,,3/4/2020,,3/9/2020,5/3/2020,,
-United Kingdom,,3/18/2020,,3/23/2020,,,
-Russia,,3/16/2020,,3/28/2020,5/12/2020,,
-Spain,,3/9/2020,,3/14/2020,5/9/2020,,
-Belgium,,3/12/2020,,3/18/2020,5/4/2020,,
-Egypt,,3/15/2020,,4/28/2020,,,
-Oman,,3/5/2020,,4/10/2020,5/29/2020,,
-Bahrain,,2/25/2020,,3/8/2020,4/9/2020,,
-Kuwait,,2/24/2020,,3/14/2020,3/29/2020,,
-Qatar,,3/9/2020,,3/11/2020,,,
-Saudi Arabia,,3/9/2020,3/24/2020,4/6/2020,4/24/2020,5/23/2020,5/28/2020
-Brazil,,3/14/2020,,3/17/2020,5/10/2020,,
+Country,Province,Event,Date
+Mainland China,,School closure,1/23/2020
+Mainland China,,Lockdown,1/23/2020
+Mainland China,,Lockdown released,4/8/2020
+US,New York,School closure,3/16/2020
+US,New York,Lockdown,3/20/2020
+US,New York,Lockdown released,6/13/2020
+US,California,School closure,3/19/2020
+US,California,Lockdown,3/19/2020
+France,,School closure,3/13/2020
+France,,Lockdown,3/17/2020
+France,,Lockdown released,5/11/2020
+Germany,,School closure,3/13/2020
+Germany,,Lockdown,3/23/2020
+Germany,,Lockdown released,5/10/2020
+United Arab Emirates,,School closure,3/8/2020
+United Arab Emirates,,Curfew,3/26/2020
+United Arab Emirates,,Lockdown,4/5/2020
+United Arab Emirates,,Lockdown released,4/24/2020
+United Arab Emirates,,Curfew,5/20/2020
+India,,School closure,3/8/2020
+India,,Lockdown,3/25/2020
+India,,Lockdown released,5/31/2020
+Italy,,School closure,3/4/2020
+Italy,,Lockdown,3/9/2020
+Italy,,Lockdown released,5/3/2020
+United Kingdom,,School closure,3/18/2020
+United Kingdom,,Lockdown,3/23/2020
+Russia,,School closure,3/16/2020
+Russia,,Lockdown,3/28/2020
+Russia,,Lockdown released,5/12/2020
+Spain,,School closure,3/9/2020
+Spain,,Lockdown,3/14/2020
+Spain,,Lockdown released,5/9/2020
+Belgium,,School closure,3/12/2020
+Belgium,,Lockdown,3/18/2020
+Belgium,,Lockdown released,5/4/2020
+Egypt,,School closure,3/15/2020
+Egypt,,Lockdown,4/28/2020
+Oman,,School closure,3/5/2020
+Oman,,Lockdown,4/10/2020
+Oman,,Lockdown released,5/29/2020
+Bahrain,,School closure,2/25/2020
+Bahrain,,Lockdown,3/8/2020
+Bahrain,,Lockdown released,4/9/2020
+Kuwait,,School closure,2/24/2020
+Kuwait,,Lockdown,3/14/2020
+Kuwait,,Lockdown released,3/29/2020
+Qatar,,School closure,3/9/2020
+Qatar,,Lockdown,3/11/2020
+Saudi Arabia,,School closure,3/9/2020
+Saudi Arabia,,Curfew,3/24/2020
+Saudi Arabia,,Lockdown,4/6/2020
+Saudi Arabia,,Lockdown released,4/24/2020
+Saudi Arabia,,Curfew,5/23/2020
+Brazil,,School closure,3/14/2020
+Brazil,,Lockdown,3/17/2020
+Brazil,,Lockdown released,5/10/2020
